@@ -14,7 +14,6 @@ public class Main
     {
       input = sc.nextLine();
       words.add(input);
-      System.out.println(input);
     }
 
     System.out.println();
